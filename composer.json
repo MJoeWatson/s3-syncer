@@ -1,0 +1,15 @@
+{
+  "name": "mjoewatson/s3-syncer",
+  "description": "S3 Syncer",
+  "keywords": ["wordpress", "plugin", "dev"],
+  "license": "",
+  "authors": [
+    {
+        "name": "Matthew Watson"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+      "aws/aws-sdk-php"							: "3.24.2"
+  }
+}
